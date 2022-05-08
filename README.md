@@ -1,3 +1,4 @@
 # split_pp
-Set paths in python genimgs
-Run python genimgs
+Implementation for Image merging<br>
+Set paths in python genimgs<br>
+Run python genimgs<br>
